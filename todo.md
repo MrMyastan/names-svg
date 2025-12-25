@@ -1,0 +1,16 @@
+- [x] spacing settings
+- [x] general info
+- [x] role subtitles
+- [x] font/color/ size settings
+- [x] variable columns
+- [ ] special, odd remainder layouts (really necessary?)
+- [x] code clean up
+- [ ] store sections as dictionary (only needed for name editing in program)
+- [ ] live editing (everything works except name/role entry and live changing all 5 colors)
+- [ ] logo insert (can be done in inkscape anyway)
+- [x] additional styles in gui for text
+- [x] "are you sure you want quit"
+- [x] help info
+- [ ] windows package
+- [x] better sizing
+- [x] more efficient rendering / change tracking
